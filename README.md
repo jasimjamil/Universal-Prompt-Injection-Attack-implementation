@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Universal Prompt Injection Attack on Language Models
 
 This project implements a universal prompt injection attack against large language models, specifically targeting models like DistilGPT-2. The implementation is based on academic research on adversarial attacks against language models.
@@ -89,3 +90,6 @@ This implementation is based on research in adversarial attacks on language mode
 ## License
 
 [Your chosen license] 
+=======
+# Universal-Prompt-Injection-Attack-implementation
+>>>>>>> 011ac8099b1d1af66bfe96312426dee81f63a536
