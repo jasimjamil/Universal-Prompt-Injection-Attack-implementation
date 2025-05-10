@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+ENV/
+.env
+dist/
+build/
+*.egg-info/
+.idea/
+.vscode/
+.ipynb_checkpoints
+*.pt
+*.pth
+*.bin
+*.log
